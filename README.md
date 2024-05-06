@@ -1,5 +1,6 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AzizunNahar7)
-### Hi there 👋, my name is Azizun Nahar
+
+### Hi 👋, I am Azizun Nahar
 #### Web Developer
 ![Web Developer](https://scontent.fdac24-3.fna.fbcdn.net/v/t1.6435-9/38519144_301035417312827_2414639117846446080_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ef5VT54q3DkQ7kNvgEtOf2a&_nc_ht=scontent.fdac24-3.fna&oh=00_AfDlx7Jz2kbAy-Eo-7-58Nu1PK3WYAcskMCbjuOJbuGX1Q&oe=66604FF7)
 

@@ -1,25 +1,30 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AzizunNahar7) 
+<h1 align="center">Hi 👋, I'm Azizun Nahar</h1>
+<h3 align="center">Web Developer</h3>
 
-### Hi 👋, I am Azizun Nahar
-#### Web Developer
-![Web Developer](https://scontent.fdac24-3.fna.fbcdn.net/v/t1.6435-9/38519144_301035417312827_2414639117846446080_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ef5VT54q3DkQ7kNvgEtOf2a&_nc_ht=scontent.fdac24-3.fna&oh=00_AfDlx7Jz2kbAy-Eo-7-58Nu1PK3WYAcskMCbjuOJbuGX1Q&oe=66604FF7)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azizunnahar7&label=Profile%20views&color=0e75b6&style=flat" alt="azizunnahar7" /> </p>
 
-I am Web Developer
-Love to write code
-Like to share my Knowledge
+- 🔭 I’m currently working on **learning**
 
-Skills:  JS / HTML / CSS
+- 🌱 I’m currently learning **JavaScript**
 
-- 🔭 I’m currently working on learning 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on github 
+- 👯 I’m looking to collaborate on **github**
 
+- 📫 How to reach me **naharazizun0@gmail.com**
 
- 
+- ⚡ Fun fact **I think I an funny**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AzizunNahar7)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/azizun nahar bably" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="azizun nahar bably" height="30" width="40" /></a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizunNahar7)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azizunnahar7&show_icons=true&locale=en&layout=compact" alt="azizunnahar7" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azizunnahar7&show_icons=true&locale=en" alt="azizunnahar7" /></p>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AzizunNahar7&show_icons=true)  
 

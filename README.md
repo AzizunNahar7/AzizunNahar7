@@ -1,5 +1,3 @@
-[<img src="https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/441307904_1612081372874885_5300783882929022009_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=AN0LE0Uo_TsQ7kNvgGCBZp2&_nc_ht=scontent.fdac24-2.fna&oh=00_AfCsSbNXNmta4-n7p-xY_alkmFmwPdolyTtE_UbxFsEvSA&oe=663EBF29">](https://www.facebook.com/photo/?fbid=1612081376208218&set=a.136740730408964&__cft__[0]=AZUQnk2QRlSnacDRdjoMhJGDJcFu0vyNIeoY980_P9msALxwRKHvcOTSevwEuftahv1maPXOui72wO66-9YoS7J1EoU3x2bqgYhULfTjpuf9X5jn-mAymTYydIa4egAVWUs11Mi5JmUrRSkQTL2qlsW2pgInqvLeYZS-T8wtp2kLIA&__tn__=EH-R)
-
 <h1 align="center">Hi 👋, I'm Azizun Nahar</h1>
 <h3 align="center">Web Developer</h3>
 
